@@ -1,0 +1,12 @@
+{
+  "name": "bmi-calculator-test",
+  "version": "1.0.0",
+  "description": "Automated Test for BMI Calculator",
+  "main": "bmi-calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
